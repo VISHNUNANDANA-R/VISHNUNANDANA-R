@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋, I'm Vishnu</h1>
 <h3 align="center">Fresher in the field of technology , skilled in Java and Android development</h3>
-<img align="right" alt="Developer" width="400" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" >
+<!img align="right" alt="Developer" width="400" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnunandana-r&label=Profile%20views&color=0e75b6&style=flat" alt="vishnunandana-r" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Database , Springs Framework, DveOps, Python, AWS**
 
-- 💬 Ask me about **Java , Android Studio**
+- 💬 Ask me about **Java , Android Studio, Database**
 
 - 📫 How to reach me **vishnunandana8@gmail.com**
 
