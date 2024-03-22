@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **Database , Springs Framework, DveOps, Python, AWS**
+- 🌱 I’m currently learning **Database , Springs Framework, DevOps, Python, AWS**
 
 - 💬 Ask me about **Java , Android Studio, Database**
 
